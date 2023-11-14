@@ -1,3 +1,11 @@
+<html>
+  <body>
+    <div align="center">
+      <img src="https://i.imgur.com/PU4cYsS.png" alt="Logo" width="180" height="180">
+    </div>
+  </body>
+</html>
+
 # Anti-Phishing Strategy: Python-Based Tool #
 
 ## Overview ##
